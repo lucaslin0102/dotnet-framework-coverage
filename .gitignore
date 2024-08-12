@@ -1,0 +1,6 @@
+coverage-reports
+/.vs
+/.sonarqube
+**/bin
+**/obj
+packages
